@@ -1,5 +1,13 @@
 pandas
+numpy
+matplotlib
 scikit-learn
 shap
-matplotlib
+yfinance
+feedparser
+beautifulsoup4
+spacy
+nltk
+vaderSentiment
 streamlit
+pyyaml
