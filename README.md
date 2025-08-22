@@ -1,16 +1,16 @@
- Explainable-credit-scorecard
+# Explainable-credit-scorecard
 Traditional credit ratings are slow, opaque, and often miss fast-changing market signals, creating inefficiencies and risks. Our project, Explainable Credit Scorecard, uses AI and explainable ML to deliver a real-time, transparent, and analyst-friendly credit intelligence platform.
 Explainable Credit Scorecard
 
  🚀 Overview
 Traditional credit rating agencies update infrequently and rely on opaque methodologies.  
-This creates **mispricing opportunities** and exposes investors to hidden risks.  
+This creates mispricing opportunities and exposes investors to hidden risks.  
 
-We propose an **AI/ML-powered Explainable Credit Intelligence Platform** that:
+We propose an AI/ML-powered Explainable Credit Intelligence Platform** that:
 - Continuously ingests structured + unstructured financial data
-- Generates **real-time creditworthiness scores**
-- Provides **transparent feature-level explanations**
-- Visualizes results via an **interactive dashboard**
+- Generates  real-time creditworthiness scores
+- Provides transparent feature-level explanations
+- Visualizes results via an interactive dashboard
 
 
  🏗 System Architecture
